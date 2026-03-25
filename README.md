@@ -8,12 +8,10 @@
 </tr>
 
 <tr>
-<td><img src="https://files.catbox.moe/0vqc90.png" width="100%">polybar1.ini
-killall polybar ; polybar</td>
-<td><img src="https://files.catbox.moe/eb3nnv.png" width="100%"></td>
+<td><img src="https://files.catbox.moe/0vqc90.png" width="100%">killall polybar ; polybar</td>
+<td><img src="https://files.catbox.moe/eb3nnv.png" width="100%">killall polybar ; polybar left & polybar battery & polybar tray & polybar time & polybar lang & polybar audio & polybar brightness &</td>
 </tr>
-polybar2.ini
-killall polybar ; polybar left & polybar battery & polybar tray & polybar time & polybar lang & polybar audio & polybar brightness &
+
 </table>
 ​</div>
 ​
